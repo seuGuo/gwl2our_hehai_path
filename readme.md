@@ -148,13 +148,11 @@ end
 
 toc
 
-
-
-  文件：write_in_notes0315_1.m
-
+  
 ```
 
 ```matlab
+文件：write_in_notes_0315_1.m
 function write_in_notes_0315_1(txt_path,state,str,speed,table)
 %实现将新的路径写入新的txt，新txt路径为字符串txt_path,state==1为数字,state==0为write
 %输入欲添加的字符串str,输出形成的路径notes_string,str为cell型,speed为移动台速度,talbe为移动台序号
