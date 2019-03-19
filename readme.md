@@ -97,7 +97,7 @@ toc
 
   效果
 
-![MATLAB-1](E:\学习\顾老师\3D打印\nanoscribe\OB1x1y1_1_files\fig1.bmp)
+![MATLAB-1](img\fig1.bmp)
 
 ## 2.忽略nanoscribe的初始控制字符串，只单纯地进行路径规划操作
 
