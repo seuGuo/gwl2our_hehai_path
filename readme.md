@@ -82,7 +82,6 @@ if(data(i,5) == 1)
 else
     Is_on = 0;
 end
-​```
 
 end
 
